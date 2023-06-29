@@ -1,0 +1,11 @@
+# Ignored file extensions
+*.eps
+*.png
+*.pdf
+
+# Others
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+__pycache__
